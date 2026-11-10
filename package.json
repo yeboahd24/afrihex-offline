@@ -1,0 +1,21 @@
+{
+  "name": "@afrihex/offline",
+  "version": "0.1.0",
+  "description": "Create and read AfriHex location codes on the device, with no internet.",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist", "SPEC.md"],
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "h3-js": "^4.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.10"
+  }
+}

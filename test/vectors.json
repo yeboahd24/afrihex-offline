@@ -1,0 +1,1145 @@
+[
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTQD5ZZZZZZ",
+    "short": "AF-GH-5-0GNTQD5"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTQD5TZZZZZ",
+    "short": "AF-GH-7-0GXTQD5T"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TQD5K4QZZZ",
+    "short": "AF-GH-9-0H5TQD5K4Q"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TQD5K4HZZZ",
+    "short": "AF-GH-10-0H9TQD5K4H"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTQD5K4HFZZ",
+    "short": "AF-GH-11-0HDTQD5K4HF"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTQD5K4HCFZ",
+    "short": "AF-GH-12-0HHTQD5K4HCF"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTQD5K4HC1Z",
+    "short": "AF-GH-13-0HNTQD5K4HC1"
+  },
+  {
+    "name": "Kotoka airport",
+    "lat": 5.6052,
+    "lng": -0.1668,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTQD5K4HC0R",
+    "short": "AF-GH-15-0HXTQD5K4HC0R"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTQD5ZZZZZZ",
+    "short": "AF-GH-5-0GNTQD5"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTQD5RFZZZZ",
+    "short": "AF-GH-7-0GXTQD5RF"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TQD5RB7ZZZ",
+    "short": "AF-GH-9-0H5TQD5RB7"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TQD5RB0ZZZ",
+    "short": "AF-GH-10-0H9TQD5RB0"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTQD5RB07ZZ",
+    "short": "AF-GH-11-0HDTQD5RB07"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTQD5RB05ZZ",
+    "short": "AF-GH-12-0HHTQD5RB05"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTQD5RB05NZ",
+    "short": "AF-GH-13-0HNTQD5RB05N"
+  },
+  {
+    "name": "Accra central",
+    "lat": 5.6037,
+    "lng": -0.187,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTQD5RB05N2",
+    "short": "AF-GH-15-0HXTQD5RB05N2"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTQD5ZZZZZZ",
+    "short": "AF-GH-5-0GNTQD5"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTJJBDZZZZZ",
+    "short": "AF-GH-7-0GXTJJBD"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TJJBDNFZZZ",
+    "short": "AF-GH-9-0H5TJJBDNF"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TJJBDNDZZZ",
+    "short": "AF-GH-10-0H9TJJBDND"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTJJBDNDFZZ",
+    "short": "AF-GH-11-0HDTJJBDNDF"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTJJBDNDCFZ",
+    "short": "AF-GH-12-0HHTJJBDNDCF"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTJJBDNDC7Z",
+    "short": "AF-GH-13-0HNTJJBDNDC7"
+  },
+  {
+    "name": "Accra Mall",
+    "lat": 5.6221843,
+    "lng": -0.1729361,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTJJBDNDC69",
+    "short": "AF-GH-15-0HXTJJBDNDC69"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTJMCZZZZZZ",
+    "short": "AF-GH-5-0GNTJMC"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTJMC9ZZZZZ",
+    "short": "AF-GH-7-0GXTJMC9"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TJMC9TZZZZ",
+    "short": "AF-GH-9-0H5TJMC9T"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TJMC9TTZZZ",
+    "short": "AF-GH-10-0H9TJMC9TT"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTJMC9TTVZZ",
+    "short": "AF-GH-11-0HDTJMC9TTV"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTJMC9TTVFZ",
+    "short": "AF-GH-12-0HHTJMC9TTVF"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTJMC9TTV7Z",
+    "short": "AF-GH-13-0HNTJMC9TTV7"
+  },
+  {
+    "name": "Kumasi",
+    "lat": 6.6885,
+    "lng": -1.6244,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTJMC9TTV7H",
+    "short": "AF-GH-15-0HXTJMC9TTV7H"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1CZZZZZZZZZ",
+    "short": "AF-GH-0-0G1C"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTJA2ZZZZZZ",
+    "short": "AF-GH-5-0GNTJA2"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTJA2MZZZZZ",
+    "short": "AF-GH-7-0GXTJA2M"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TJA2MNQZZZ",
+    "short": "AF-GH-9-0H5TJA2MNQ"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TJA2MNKZZZ",
+    "short": "AF-GH-10-0H9TJA2MNK"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTJA2MNK3ZZ",
+    "short": "AF-GH-11-0HDTJA2MNK3"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTJA2MNK1ZZ",
+    "short": "AF-GH-12-0HHTJA2MNK1"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTJA2MNK1HZ",
+    "short": "AF-GH-13-0HNTJA2MNK1H"
+  },
+  {
+    "name": "Tamale",
+    "lat": 9.4008,
+    "lng": -0.8393,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTJA2MNK1H0",
+    "short": "AF-GH-15-0HXTJA2MNK1H0"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTGKNZZZZZZ",
+    "short": "AF-GH-5-0GNTGKN"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTGKNHZZZZZ",
+    "short": "AF-GH-7-0GXTGKNH"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TGKNHMZZZZ",
+    "short": "AF-GH-9-0H5TGKNHM"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TGKNHMSZZZ",
+    "short": "AF-GH-10-0H9TGKNHMS"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTGKNHMSFZZ",
+    "short": "AF-GH-11-0HDTGKNHMSF"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTGKNHMSCFZ",
+    "short": "AF-GH-12-0HHTGKNHMSCF"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTGKNHMSCDZ",
+    "short": "AF-GH-13-0HNTGKNHMSCD"
+  },
+  {
+    "name": "Takoradi",
+    "lat": 4.8845,
+    "lng": -1.7554,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTGKNHMSCD8",
+    "short": "AF-GH-15-0HXTGKNHMSCD8"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1CZZZZZZZZZ",
+    "short": "AF-GH-0-0G1C"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNCSWRZZZZZZ",
+    "short": "AF-GH-5-0GNCSWR"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXCSWSVFZZZZ",
+    "short": "AF-GH-7-0GXCSWSVF"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5CSWSV57ZZZ",
+    "short": "AF-GH-9-0H5CSWSV57"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9CSWSV53ZZZ",
+    "short": "AF-GH-10-0H9CSWSV53"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDCSWSV53FZZ",
+    "short": "AF-GH-11-0HDCSWSV53F"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHCSWSV53FFZ",
+    "short": "AF-GH-12-0HHCSWSV53FF"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNCSWSV53F9Z",
+    "short": "AF-GH-13-0HNCSWSV53F9"
+  },
+  {
+    "name": "Bolgatanga",
+    "lat": 10.7856,
+    "lng": -0.8514,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXCSWSV53F8T",
+    "short": "AF-GH-15-0HXCSWSV53F8T"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNC9CDZZZZZZ",
+    "short": "AF-GH-5-0GNC9CD"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXC9CD7FZZZZ",
+    "short": "AF-GH-7-0GXC9CD7F"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5C9CD76FZZZ",
+    "short": "AF-GH-9-0H5C9CD76F"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9C9CD76DZZZ",
+    "short": "AF-GH-10-0H9C9CD76D"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDC9CD76DKZZ",
+    "short": "AF-GH-11-0HDC9CD76DK"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHC9CD76DJZZ",
+    "short": "AF-GH-12-0HHC9CD76DJ"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNC9CD76DQDZ",
+    "short": "AF-GH-13-0HNC9CD76DQD"
+  },
+  {
+    "name": "Aflao (east border)",
+    "lat": 6.118,
+    "lng": 1.189,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXC9CD76DQDP",
+    "short": "AF-GH-15-0HXC9CD76DQDP"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTGGKZZZZZZ",
+    "short": "AF-GH-5-0GNTGGK"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTGGKEZZZZZ",
+    "short": "AF-GH-7-0GXTGGKE"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TGGKERFZZZ",
+    "short": "AF-GH-9-0H5TGGKERF"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TGGKEREZZZ",
+    "short": "AF-GH-10-0H9TGGKERE"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTGGKEREFZZ",
+    "short": "AF-GH-11-0HDTGGKEREF"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTGGKEREFFZ",
+    "short": "AF-GH-12-0HHTGGKEREFF"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTGGKEREFDZ",
+    "short": "AF-GH-13-0HNTGGKEREFD"
+  },
+  {
+    "name": "Elubo (west border)",
+    "lat": 5.285,
+    "lng": -2.765,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTGGKEREFDB",
+    "short": "AF-GH-15-0HXTGGKEREFDB"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1CZZZZZZZZZ",
+    "short": "AF-GH-0-0G1C"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNCSW2ZZZZZZ",
+    "short": "AF-GH-5-0GNCSW2"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXCSW28ZZZZZ",
+    "short": "AF-GH-7-0GXCSW28"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5CSW28R7ZZZ",
+    "short": "AF-GH-9-0H5CSW28R7"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9CSW28S3ZZZ",
+    "short": "AF-GH-10-0H9CSW28S3"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDCSW28R4VZZ",
+    "short": "AF-GH-11-0HDCSW28R4V"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHCSW28R4VFZ",
+    "short": "AF-GH-12-0HHCSW28R4VF"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNCSW28R4VDZ",
+    "short": "AF-GH-13-0HNCSW28R4VD"
+  },
+  {
+    "name": "Paga (north border)",
+    "lat": 10.98,
+    "lng": -1.11,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXCSW28R4VC1",
+    "short": "AF-GH-15-0HXCSW28R4VC1"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 0,
+    "in_ghana": true,
+    "code": "AF-GH-0-0G1TZZZZZZZZZ",
+    "short": "AF-GH-0-0G1T"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 5,
+    "in_ghana": true,
+    "code": "AF-GH-5-0GNTGJMZZZZZZ",
+    "short": "AF-GH-5-0GNTGJM"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 7,
+    "in_ghana": true,
+    "code": "AF-GH-7-0GXTGJM1ZZZZZ",
+    "short": "AF-GH-7-0GXTGJM1"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 9,
+    "in_ghana": true,
+    "code": "AF-GH-9-0H5TGJMEBFZZZ",
+    "short": "AF-GH-9-0H5TGJMEBF"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 10,
+    "in_ghana": true,
+    "code": "AF-GH-10-0H9TGJMEBCZZZ",
+    "short": "AF-GH-10-0H9TGJMEBC"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 11,
+    "in_ghana": true,
+    "code": "AF-GH-11-0HDTGJMEBCKZZ",
+    "short": "AF-GH-11-0HDTGJMEBCK"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 12,
+    "in_ghana": true,
+    "code": "AF-GH-12-0HHTGJMEBCGZZ",
+    "short": "AF-GH-12-0HHTGJMEBCG"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 13,
+    "in_ghana": true,
+    "code": "AF-GH-13-0HNTGJMEBCGHZ",
+    "short": "AF-GH-13-0HNTGJMEBCGH"
+  },
+  {
+    "name": "Cape Three Points (south)",
+    "lat": 4.74,
+    "lng": -2.09,
+    "level": 15,
+    "in_ghana": true,
+    "code": "AF-GH-15-0HXTGJMEBCGHE",
+    "short": "AF-GH-15-0HXTGJMEBCGHE"
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 0,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 5,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 7,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 9,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 10,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 11,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 12,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 13,
+    "in_ghana": false
+  },
+  {
+    "name": "Lome, Togo",
+    "lat": 6.1319,
+    "lng": 1.2228,
+    "level": 15,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 0,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 5,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 7,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 9,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 10,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 11,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 12,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 13,
+    "in_ghana": false
+  },
+  {
+    "name": "Abidjan, Cote d'Ivoire",
+    "lat": 5.36,
+    "lng": -4.0083,
+    "level": 15,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 0,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 5,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 7,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 9,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 10,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 11,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 12,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 13,
+    "in_ghana": false
+  },
+  {
+    "name": "Ouagadougou, Burkina Faso",
+    "lat": 12.3714,
+    "lng": -1.5197,
+    "level": 15,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 0,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 5,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 7,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 9,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 10,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 11,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 12,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 13,
+    "in_ghana": false
+  },
+  {
+    "name": "Gulf of Guinea",
+    "lat": 4,
+    "lng": -1,
+    "level": 15,
+    "in_ghana": false
+  }
+]
