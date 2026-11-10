@@ -46,3 +46,7 @@ snapping and routing need [the AfriHex API](https://developer.afrihex.com).
 
 See [SPEC.md](./SPEC.md). `test/vectors.json` holds reference codes from the
 API; `npm test` checks this library against them.
+
+## Licence
+
+MIT. See [LICENSE](./LICENSE).

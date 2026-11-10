@@ -5,11 +5,16 @@
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist", "SPEC.md"],
-  "license": "UNLICENSED",
+  "files": [
+    "dist",
+    "SPEC.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "test": "vitest run"
+    "test": "vitest run",
+    "prepublishOnly": "npm test && npm run build"
   },
   "dependencies": {
     "h3-js": "^4.5.0"
@@ -17,5 +22,19 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "vitest": "^4.0.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeboahd24/afrihex-offline.git"
+  },
+  "homepage": "https://github.com/yeboahd24/afrihex-offline#readme",
+  "keywords": [
+    "afrihex",
+    "ghana",
+    "geocoding",
+    "h3",
+    "offline",
+    "address",
+    "location-code"
+  ]
 }
