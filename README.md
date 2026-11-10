@@ -7,6 +7,10 @@ Useful where coverage is poor: riders, field and health workers, surveys and
 village deliveries. A phone's GPS works without data, and the share message
 works over a plain text message.
 
+```sh
+npm install github:yeboahd24/afrihex-offline
+```
+
 ```ts
 import { encode, decode, shortCode, shareMessage } from '@afrihex/offline'
 

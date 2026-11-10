@@ -14,7 +14,8 @@
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "test": "vitest run",
-    "prepublishOnly": "npm test && npm run build"
+    "prepublishOnly": "npm test && npm run build",
+    "prepare": "tsc -p tsconfig.json"
   },
   "dependencies": {
     "h3-js": "^4.5.0"
