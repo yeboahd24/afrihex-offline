@@ -1,4 +1,4 @@
-import { encode, shortCode } from './codec'
+import { encode, shortCode } from './codec.js'
 
 /**
  * The code level that matches how precise a GPS reading is: a finer cell than

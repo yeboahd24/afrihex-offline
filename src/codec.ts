@@ -1,5 +1,5 @@
 import { cellArea, cellToBoundary, cellToLatLng, getResolution, isValidCell, latLngToCell } from 'h3-js'
-import { isInGhana } from './ghana'
+import { isInGhana } from './ghana.js'
 
 /**
  * AfriHex codes: AF-{COUNTRY}-{LEVEL}-{ID}, where ID is the full 64-bit H3
