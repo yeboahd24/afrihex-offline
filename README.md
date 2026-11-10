@@ -8,7 +8,7 @@ village deliveries. A phone's GPS works without data, and the share message
 works over a plain text message.
 
 ```sh
-npm install github:yeboahd24/afrihex-offline
+npm install @afrihex/offline
 ```
 
 ```ts
